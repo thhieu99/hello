@@ -14,8 +14,5 @@ int main(int argc, char argv) {
   printf("Thanh Hieu Tran!\n");
   printf("My major is Computer Science.\n");
 
-  printf("Truong Tommy Tran!!\n");
-  printf("My major is Electrical Engineering!!\n");
-
   return 0;
 }
